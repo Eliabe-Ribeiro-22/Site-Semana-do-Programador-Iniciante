@@ -1,2 +1,3 @@
-# Site-Semana-do-Programador-Iniciante
-Projeto desenvolvido para praticar meus conhecimentos adquiridos em HTML, CSS, JavaScript. Ele foi ensinado no curso da escola Code Universe.
+# Site Semana do Programador Iniciante
+
+Projeto desenvolvido para praticar os conhecimentos adquiridos em HTML, CSS, JavaScript. Ele foi ensinado no curso da escola Code Universe.
